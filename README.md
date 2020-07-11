@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-I'm Rodrigo Ballestero, a curious and passionate Site Reliability Engineer @TokkoLabs.
+I'm Rodrigo Ballestero, a curious and passionate Site Reliability Engineer @TokkoLabs from Argentina. 
+
+Excited about DevOps culture.
+
+Currently I have fun with Docker, Kubernetes and other friends.
 
 Check my [LinkedIn profile](https://www.linkedin.com/in/ballesterorj/).
 
