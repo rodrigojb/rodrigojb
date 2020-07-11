@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Rodrigo Ballestero, a curious and passionate Site Reliability Engineer @TokkoLabs.
+
+Check my [LinkedIn profile](https://www.linkedin.com/in/ballesterorj/).
+
 <!--
 **rodrigojb/rodrigojb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
