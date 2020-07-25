@@ -1,4 +1,4 @@
-### Hi there 👋
+### $ WHOAMI
 
 I'm Rodrigo Ballestero, a curious and passionate Site Reliability Engineer @TokkoLabs from Argentina. 
 
