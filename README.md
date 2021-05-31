@@ -1,6 +1,6 @@
 ### $ WHOAMI
 
-I'm Rodrigo Ballestero, a curious and passionate Site Reliability Engineer @TokkoLabs from Argentina. 
+I'm Rodrigo Ballestero, a curious and passionate Site Reliability Engineer @SantanderTecnologiaArgentina. 
 
 Excited about DevOps culture.
 
