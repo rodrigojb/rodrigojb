@@ -1,6 +1,6 @@
 ### $ WHOAMI
 
-I'm Rodrigo Ballestero, a curious and passionate Site Reliability Engineer @SantanderTecnologiaArgentina. 
+I'm Rodrigo Ballestero, a curious and passionate Site Reliability Engineer @MercadoLibre. 
 
 Excited about DevOps culture.
 
